@@ -8,4 +8,4 @@ client:
 fetch-registry: true
 register-with-eureka: true
 service-url:
-defaultZone: 
+defaultZone: http://localhost:8087/eureka
